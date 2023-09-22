@@ -1,0 +1,11 @@
+[user]
+pinned=/usr/share/applications/firefox.desktop;/usr/share/applications/discord.desktop;/usr/share/applications/virt-manager.desktop;/home/sid/.local/share/applications/userapp-Thunderbird-OS92A2.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/org.keepassxc.KeePassXC.desktop;
+showWindowCount=false
+indicatorColorFromTheme=true
+showPreviews=true
+onlyDisplayScreen=false
+onlyDisplayVisible=true
+noWindowsListIfSingle=false
+indicatorStyle=0
+inactiveIndicatorStyle=0
+forceIconSize=false
