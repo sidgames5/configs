@@ -6,8 +6,8 @@ enable_imgur_upload=true
 show_in_folder=false
 screenshot_dir=file:///home/sid
 action=2
-delay=0
+delay=2
 region=1
-show_mouse=1
+show_mouse=0
 show_border=1
 

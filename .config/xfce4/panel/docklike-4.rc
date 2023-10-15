@@ -1,0 +1,7 @@
+[user]
+pinned=/usr/share/applications/firefox.desktop;/usr/share/applications/discord.desktop;/usr/share/applications/thunar.desktop;/usr/share/applications/org.keepassxc.KeePassXC.desktop;/usr/share/applications/virt-manager.desktop;
+middleButtonBehavior=1
+indicatorStyle=4
+inactiveIndicatorStyle=4
+showWindowCount=false
+showPreviews=true
